@@ -1,4 +1,4 @@
-name: DeepVul
+name: DrugTranslator
 channels:
   - <unknown>
   - conda-forge
